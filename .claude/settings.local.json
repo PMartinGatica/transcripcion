@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-expo-app:*)",
+      "Bash(npm install:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm start)",
+      "Bash(npm run android:*)",
+      "Bash(taskkill:*)",
+      "Bash(npx expo start:*)",
+      "Bash(ipconfig)",
+      "Bash(findstr:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
